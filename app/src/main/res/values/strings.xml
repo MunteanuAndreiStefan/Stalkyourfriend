@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stalk your friends</string>
+    <string name="call_ocr_api">Load photo (Max 1MB)</string>
+    <string name="call_ocr_api2">Load linkage file for Code->Name</string>
+    <string name="ocr_api_result">No result yet, please use the format: "Name|Code" and new line for the next entry for the name file</string>
+</resources>
