@@ -7,3 +7,5 @@
    - Between codded value and name should be "|" ("RealName|CodedName")
   
 -> To translate a photo after you load the txt file hit the photo button and don't use photos bigger than 1mb.
+
+It uses OCR and it has a free service in backend.
